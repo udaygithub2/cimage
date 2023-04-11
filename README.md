@@ -1,1 +1,127 @@
 # cimage
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<center>
+<body><u>
+<h1>COLLEGE ROUTINE</h1>
+<p>(PATLIPUTRA BRANCH-3A)</p></u>
+<p style="background-color:aqua;color:black;font-size:25px;height:35px;width:100%;font-weight:bold;">B.sc-IT PPU 1st year Batch-2(452)</p>
+<table border="1px">
+<tr>
+<th bgcolor="teal">TIME</th>
+<th bgcolor="teal">MONDAY</th>
+<th bgcolor="teal">WEDNESDAY</th>
+<th bgcolor="teal">FRIDAY</th>
+<th bgcolor="teal">TIME</th>
+<th bgcolor="teal">TUESDAY</th>
+<th bgcolor="teal">THURSDAY</th>
+<th bgcolor="teal">SATURDAY</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">09am-10am</th>
+<th>Operating System</th>
+<th>Operating System</th>
+<th>Operating System</th>
+<th bgcolor="lightskyblue">08am-09am</th>
+<th>Math</th>
+<th>Math</th>
+<th>Math</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Nilesh Sir</th>
+<th>Nilesh sir</th>
+<th>Nilesh sir</th>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Ravindra sir</th>
+<th>Ravindra sir</th>
+<th>Ravindra sir</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">10am-10:50am</th>
+<th>IBM</th>
+<th>IBM</th>
+<th>IBM</th>
+<th bgcolor="lightskyblue">09am-9:50am</th>
+<th>DBMS</th>
+<th>DBMS</th>
+<th>DBMS</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Amit Sir</th>
+<th>Amit sir</th>
+<th>Amit sir</th>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Anjesh sir</th>
+<th>Anjesh sir</th>
+<th>Anjesh sir</th>
+</tr>
+<tr>
+<th bgcolor="teal"colspan="4">Break time(10:50am-11:10am)</th>
+<th bgcolor="teal"colspan="4">Break time(9:50am-10:10am)</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">11:10am-12pm</th>
+<th>Basic Electronic</th>
+<th>Basic Electronic</th>
+<th>Basic Electronic</th>
+<th bgcolor="lightskyblue">10:10am-11am</th>
+<th>Computer Hardware</th>
+<th>Computer Hardware</th>
+<th>Computer Hardware</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Aakanksha Mam</th>
+<th>Aakanksha mam</th>
+<th>Aakanksha mam</th>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Murli sir</th>
+<th>Murli sir</th>
+<th>Murli sir</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">12am-01am</th>
+<th>C language</th>
+<th>C language</th>
+<th>C language</th>
+<th bgcolor="lightskyblue">11am-12pm</th>
+<th>English</th>
+<th>English</th>
+<th>English</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Ravisoni  Sir</th>
+<th>Ravisoni sir</th>
+<th>Ravisoni sir</th>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Aakanksha mam</th>
+<th>Aakankhsa mam</th>
+<th>Aakanksha mam</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue"></th>
+<th bgcolor="tan"></th>
+<th bgcolor="tan"></th>
+<th bgcolor="tan"></th>
+<th bgcolor="lightskyblue">12pm-01pm</th>
+<th>Web Development</th>
+<th>Web Development</th>
+<th>Web Development</th>
+</tr>
+<tr>
+<th bgcolor="lightskyblue"></th>
+<th bgcolor="tan"></th>
+<th bgcolor="tan"></th>
+<th bgcolor="tan"></th>
+<th bgcolor="lightskyblue">Faculty</th>
+<th>Niraj sir</th>
+<th>Niraj sir</th>
+<th>Niraj sir</th>
+</tr>
+
+</table>
