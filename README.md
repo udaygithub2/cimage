@@ -1,5 +1,3 @@
-# cimage
-<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -60,8 +58,8 @@
 <th>Anjesh sir</th>
 </tr>
 <tr>
-<th bgcolor="teal"colspan="4">Break time(10:50am-11:10am)</th>
-<th bgcolor="teal"colspan="4">Break time(9:50am-10:10am)</th>
+<th bgcolor="teal" colspan="4">Break time(10:50am-11:10am)</th>
+<th bgcolor="teal" colspan="4">Break time(9:50am-10:10am)</th>
 </tr>
 <tr>
 <th bgcolor="lightskyblue">11:10am-12pm</th>
